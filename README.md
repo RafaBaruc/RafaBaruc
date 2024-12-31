@@ -35,3 +35,46 @@
  
   
 </div>
+
+# About Me  
+
+👨‍💻 **Rafael Baruc Silva**  
+I am a **Technician in Internet of Things (IoT)** from the Federal Institute of Science and Technology of the Triângulo Mineiro (IFTM), with hands-on experience in **software development**, **mobile applications**, and **game design**. My expertise spans several programming languages and frameworks, including:  
+
+- **React Native**: Mobile app development with JavaScript and TypeScript.  
+- **C++ and C**: Arduino programming, logic programming, and competitive programming (OBI participant).  
+- **Unity and C#**: Game development and prototyping.  
+- **API Development**: Backend solutions tailored for IoT integrations.  
+
+📂 **Experience**  
+- Developed web solutions during an internship at the Federal University of Uberlândia (UFU).  
+- Contributed to IoT-based projects and workshops (drones IoT applications).  
+- Created and prototyped solutions integrating hardware and software using Arduino and electronic components.  
+
+📹 **Additional Skills**  
+- **Video and Image Editing**: Leveraging creativity for digital projects.  
+- **Design**: User interface and experience concepts applied to apps and games.  
+
+Feel free to explore my repositories showcasing projects in IoT, web, and game development. Let’s build something amazing together!  
+
+# Sobre Mim  
+
+👨‍💻 **Rafael Baruc Silva**  
+Sou **Técnico em Internet das Coisas (IoT)** pelo Instituto Federal de Ciência e Tecnologia do Triângulo Mineiro (IFTM), com experiência prática em **desenvolvimento de software**, **aplicativos móveis** e **design de jogos**. Minhas competências incluem diversas linguagens e frameworks de programação, como:  
+
+- **React Native**: Desenvolvimento de aplicativos móveis com JavaScript e TypeScript.  
+- **C++ e C**: Programação para Arduino, lógica de programação e participação em competições (OBI).  
+- **Unity e C#**: Desenvolvimento de jogos e prototipagem.  
+- **Desenvolvimento de APIs**: Soluções de backend voltadas para integrações com IoT.  
+
+📂 **Experiência**  
+- Desenvolvimento de soluções web durante estágio na Universidade Federal de Uberlândia (UFU).  
+- Contribuição em projetos e workshops voltados para IoT (drones e aplicações IoT).  
+- Criação e prototipagem de soluções integrando hardware e software com Arduino e componentes eletrônicos.  
+
+📹 **Habilidades Adicionais**  
+- **Edição de Vídeo e Imagem**: Aplicação criativa em projetos digitais.  
+- **Design**: Conceitos de interface e experiência aplicados a apps e jogos.  
+
+Sinta-se à vontade para explorar meus repositórios que mostram projetos em IoT, web e desenvolvimento de jogos. Vamos criar algo incrível juntos!  
+
